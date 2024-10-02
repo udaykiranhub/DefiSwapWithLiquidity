@@ -1,0 +1,17 @@
+.connect {
+    width: auto;
+    height: auto;
+    padding-top: 10px;
+
+    text-align: center;
+ 
+  /* transition: 0.5s ease-in-out; */
+    color: rgb(6, 4, 4);
+    font-size: 20px;
+  }
+
+  .connect:hover {
+    /* background-color: #FF5722; Changes to orange on hover */
+    /* transform: scale(1.1); Grows slightly on hover */
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); Adds shadow effect */
+  }

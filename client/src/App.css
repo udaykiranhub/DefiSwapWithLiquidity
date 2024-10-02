@@ -1,0 +1,15 @@
+.App{
+  
+  background-color:rgb(113, 212, 230);
+ 
+}
+
+.heading{
+    background-color: rgba(218, 226, 253, 0.886);
+    padding-top: 4px;
+ height:100px;
+ text-align: center;
+ border: 2px solid black;
+ border-radius:30px;
+
+}

@@ -1,0 +1,4 @@
+
+export const token="0x6Fe5D32cFc253deeb4E6fBbd4Ce436F1d68C696D"
+
+export const swap="0xFd8CA685D85eC14dB9B64D6E37De67351d13D078"
